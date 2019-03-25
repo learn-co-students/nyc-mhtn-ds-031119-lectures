@@ -9,8 +9,7 @@ git remote add upstream https://github.com/learn-co-students/nyc-mhtn-ds-031119-
 ```
 
 2. Check the remote is set and your lecture notes repo is correct
-You should see your forked repo after **origin**.
-And the learn-co-students repo after **upstream**
+You should see your forked repo after **origin**, and the learn-co-students repo after **upstream**
 
 ```
 git remote -v
