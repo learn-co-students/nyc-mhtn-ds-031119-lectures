@@ -8,6 +8,9 @@ git remote add upstream https://github.com/learn-co-students/nyc-mhtn-ds-031119-
 ```
 
 Check the remote is set and your lecture notes repo is correct
+You should see your forked repo after *origin* 
+And the learn-co-students repo after *upstream*
+
 ```
 git remote -v
 ```
@@ -17,14 +20,14 @@ Update the changes from the upstream learn-co lecture notes repo
 git fetch upstream
 ```
 
-Check the master branch is selected
+Check that the master branch is selected
 ```
 git branch
 ```
 
-Merge the new changes from the upstream learn-co lecture notes repo
+Merge the new changes from the upstream learn-co lecture notes repo, with a commit message
 ```
-git merge upstream/master
+git merge upstream/master -m 'what you updated'
 ```
 
 Push the changes to the forked lecture repo
