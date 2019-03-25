@@ -3,14 +3,14 @@
 ## To update a local repo after forking and cloning
 ### If you have set the remote skip to step 2
 
-1. Add the learn-co lecture notes repo as the remote, *this step only happens once*
+1. Add the learn-co lecture notes repo as the remote, **this step only happens once**
 ```
 git remote add upstream https://github.com/learn-co-students/nyc-mhtn-ds-031119-lectures.git
 ```
 
 2. Check the remote is set and your lecture notes repo is correct
-You should see your forked repo after *origin* 
-And the learn-co-students repo after *upstream*
+You should see your forked repo after **origin**.
+And the learn-co-students repo after **upstream**
 
 ```
 git remote -v
