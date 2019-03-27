@@ -36,4 +36,5 @@ access_token = "YOUR_ACCESS_TOKEN"
 token_secret = "YOUR_TOKEN_SECRET" 
 ``` 
 From here make branches :palm_tree:, commit :ring: , push :bicyclist:, and merge files :ok_hand: .
-<img width="549" alt="Screen Shot 2019-03-26 at 3 40 13 PM" src="https://user-images.githubusercontent.com/39356742/55028179-7b821480-4fdd-11e9-93be-1e8e4fe06225.png">
+<img width="607" alt="Screen Shot 2019-03-27 at 3 18 14 PM" src="https://user-images.githubusercontent.com/39356742/55105969-22c97f00-50a4-11e9-8ba4-c8dc66d2b89e.png">
+
