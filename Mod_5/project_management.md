@@ -58,7 +58,8 @@ run python in env and import the system to see where the python we are using is
 ```
 import sys
 
-sys.executable```
+sys.executable
+```
 
  Also, let's check if we have requests!
 
